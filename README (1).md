@@ -1,4 +1,5 @@
-# Student Management System — Java OOP Lab
+# Student Management System — Java Software-Engineering-and-Design-Patterns Lab
+
 
 A simple Java console application demonstrating core Object-Oriented Programming (OOP) concepts through a student management example.
 
@@ -117,6 +118,3 @@ After completing this project, you should understand how to:
 - Reuse parent-class functionality through inheritance.
 - Call a parent constructor using `super()`.
 
-## 👨‍💻 Author
-
-Created as part of a Java Object-Oriented Programming (OOP) lab assignment.
